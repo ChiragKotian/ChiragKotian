@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChiragKotian
-- 👀 I’m interested in electronics, iot, heavy electricals and electronics, etc. 
+- 👀 I’m interested in electronics, iot, power electronics, heavy electricals etc. 
 - 🌱 I’m currently studying at IIT Tirupati, B.Tech in Electrical engineering
 - 💞️ I’m looking to collaborate on any electrical project
 - 📫 How to reach me: contact me by shooting me a mail at cls010522@gmail.com
