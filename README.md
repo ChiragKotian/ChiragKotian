@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics, IOT, designing circuits, etc. 
 - 🌱 I’m currently studying at IIT Tirupati, B.Tech in Electrical engineering
 - 💞️ I’m looking to collaborate on any electrical project
-- 📫 How to reach me: contact me by shooting me a mail (Youtube email-id) at cls010522@gmail.com 
+- 📫 How to reach me: contact me by shooting me a mail (Youtube channel email-id) at cls010522@gmail.com 
 
 
 Description:
