@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @ChiragKotian
-- 👀 I’m interested in electronics, IOT, designing circuits, etc. 
+- 👀 I’m interested in electronics, IOT, designing circuits, drones, robotics, etc. 
 - 🌱 I’m currently studying at IIT Tirupati, B.Tech in Electrical engineering
-- 💞️ I’m looking to collaborate on any project related to elctronics, drones or robotics
+- 💞️ I’m looking to collaborate on any project related to electronics, drones or robotics
 - 📫 How to reach me: contact me by shooting me a mail (Youtube channel email-id) at cls010522@gmail.com 
 
 
 Description:
-I'm an electronics enthusiast, working with electronics since my childhood. I like building complex electronic circuits and interfacing with microcontrollers using which I have built many technical projects, especially IOT ones which went on to represent the institutes I was studying at the district level. I have immense experience using microcontrollers like Arduino, single-board computers like Raspberry PI and many shields and sensors based around them. I have a very good experience in the field of drones and robotics. Coding in C++ is also one of the skills in my bag. I have completed many specialisation courses on IOT through Coursera. I am also good at 3D CAD modelling and 3D printing. I also have a good experience working with MATLAB and Simulink.
+Experienced and passionate electronics enthusiast with a strong track record in designing and constructing intricate electronic circuits and seamlessly integrating them with microcontrollers. Proficient in developing innovative IoT projects, some of which have been selected to represent my educational institutions at the district and national levels. Skilled in working with drones and proficient in utilizing the Robot Operating System (ROS). Extensive expertise in utilizing popular microcontrollers like Arduino, single-board computers like Raspberry Pi, and an extensive range of shields and sensors. Proficient in coding in C++ and Python to create robust and efficient solutions. Well-versed in 3D CAD modelling and 3D printing techniques. Additionally, possess solid experience with MATLAB and Simulink.
 <!---
 ChiragKotian/ChiragKotian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
