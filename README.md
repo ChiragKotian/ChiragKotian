@@ -68,9 +68,12 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 
   
 
+<br/> 
 <br/>  
 
-<div align="center">
+<br/> 
+<br/> 
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=ChiragKotian&&style=flat-square" align="center" />
 </div>  
   
