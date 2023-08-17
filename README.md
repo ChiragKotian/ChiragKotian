@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Chirag Kotian  
+[# 👋 Hi, I’m Chirag Kotian  
   
 
 <a href="https://github.com/ChiragKotian" target="_blank">
@@ -92,3 +92,4 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+](https://github.com/ChiragKotian)https://github.com/ChiragKotian
