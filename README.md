@@ -84,7 +84,7 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ChiragKotian&&style=flat-square)  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiragKotian)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKotian)](https://github.com/anuraghazra/github-readme-stats)
 <br/>  
 
 
