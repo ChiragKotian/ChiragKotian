@@ -33,7 +33,7 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently studying at IIT Tirupati, B.Tech in Electrical engineering  
   
@@ -48,13 +48,6 @@ Experienced and passionate electronics enthusiast with a strong track record in 
   
 
 - 📫 How to reach me: contact me by shooting me a mail (Youtube channel email-id) at cls010522@gmail.com  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
