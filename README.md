@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Chirag Kotian  
+# 👋 Hi, I’m Chirag Kotian  
   
 
 <a href="https://github.com/ChiragKotian" target="_blank">
@@ -23,7 +23,7 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here!!!
 
 ## About me:
 Experienced and passionate electronics enthusiast with a strong track record in designing and constructing intricate electronic circuits and seamlessly integrating them with microcontrollers. Proficient in developing innovative IoT projects, some of which have been selected to represent my educational institutions at the district and national levels. Skilled in working with drones and proficient in utilizing the Robot Operating System (ROS). Extensive expertise in utilizing popular microcontrollers like Arduino, single-board computers like Raspberry Pi, and an extensive range of shields and sensors. Proficient in coding in C++ and Python to create robust and efficient solutions. Well-versed in 3D CAD modelling and 3D printing techniques. Additionally, possess solid experience with MATLAB and Simulink.  
