@@ -1,4 +1,4 @@
-## Hi, I’m Chirag Kotian  
+## 👋 Hi, I’m Chirag Kotian  
   
 
 <a href="https://github.com/ChiragKotian" target="_blank">
