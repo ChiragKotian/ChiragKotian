@@ -20,8 +20,8 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
-
-
+[![trophy](https://github-profile-trophy.vercel.app/ChiragKotian=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark
 
 ### Glad to see you here!!!
 
@@ -63,7 +63,7 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 </div>  
 
 <br/>  
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
+
  
  ### 🙏 Thanks for visiting!😁
   
