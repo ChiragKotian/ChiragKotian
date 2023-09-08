@@ -47,7 +47,7 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 - 🔭 My personal [website](https://chiragkotian.github.io).  
   
 
-- 📫 How to reach me: contact me by shooting me a mail (Youtube channel email-id) at cls010522@gmail.com  
+- 📫 How to reach me: contact me by shooting me an email (Youtube channel email-id) at cls010522@gmail.com  
 
 <br/>  
 
@@ -63,6 +63,7 @@ Experienced and passionate electronics enthusiast with a strong track record in 
 </div>  
 
 <br/>  
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai
  
  ### 🙏 Thanks for visiting!😁
   
