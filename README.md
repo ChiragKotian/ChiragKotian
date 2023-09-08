@@ -21,7 +21,7 @@
 </a>  
   
 
-https://github-profile-trophy.vercel.app/?ChiragKotian=ryo-ma&theme=onedark
+https://github-profile-trophy.vercel.app/?username=ChiragKotian-ma&theme=onedark
 
 ### Glad to see you here!!!
 
