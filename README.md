@@ -25,7 +25,7 @@
 ### Glad to see you here!!!
 
 ## About me:
-Experienced and passionate electronics enthusiast with a strong track record in designing and constructing intricate electronic circuits and seamlessly integrating them with microcontrollers. Proficient in developing innovative IoT projects, some of which have been selected to represent my educational institutions at the district and national levels. Skilled in working with drones and proficient in utilizing the Robot Operating System (ROS). Extensive expertise in utilizing popular microcontrollers like Arduino, single-board computers like Raspberry Pi, and an extensive range of shields and sensors. Proficient in coding in C++ and Python to create robust and efficient solutions. Well-versed in 3D CAD modelling and 3D printing techniques. Additionally, possess solid experience with MATLAB and Simulink.  
+Electrical Engineering graduate from IIT Tirupati with a minor in Management, combining deep technical expertise in robotics, embedded systems, and drone technologies with strong leadership and project execution capabilities. Proficient in developing real-time control systems and modular robotic platforms, with hands-on experience in PX4 autopilot, ROS/ROS2 frameworks, and embedded hardware platforms like Raspberry Pi, STM32, ESP32 and Arduino, both as standalone systems and in fully integrated architectures. Completed research internships through the prestigious MITACS program (Canada) and at IIT Gandhinagar, while leading award-winning interdisciplinary teams at Inter-IIT Tech Meets. Skilled in C++, Python, PCB design, and communication interfaces including I2C, SPI, and CAN. 
   
 
 <br/>  
