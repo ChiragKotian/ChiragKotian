@@ -34,7 +34,7 @@ Electrical Engineering graduate from IIT Tirupati with a minor in Management, co
 ## Rapidfire  
 
 
-- 🌱 I’m currently studying at IIT Tirupati, B.Tech in Electrical engineering  
+- 🌱 I’m currently working at HPCL Mumbai Refinery
   
 
 - 👀 I’m interested in electronics, IOT, designing circuits, drones, robotics, etc.  
