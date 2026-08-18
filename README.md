@@ -48,7 +48,5 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ChiragKotian" alt="Chirag's GitHub Metrics" width="80%" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=ChiragKotian&theme=tokyonight&hide_border=true" alt="Chirag's Streak" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=ChiragKotian&&style=flat-square" align="center" />
+</div>  
