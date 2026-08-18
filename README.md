@@ -21,9 +21,9 @@
 | :--- | :--- |
 | **Languages** | C, C++, Python, Ladder Logic, MATLAB / Simulink |
 | **Embedded & RTOS** | FreeRTOS, STM32, ESP32-S3, Arduino, PX4 Autopilot, ROS / ROS2 |
-| **Fieldbuses & Protocols** | CAN bus (Custom Frame/Hex), Modbus TCP/IP, LoRaWAN, SPI, I2C, UART |
+| **Fieldbuses & Protocols** | CAN bus (Custom Frame/Hex), Modbus TCP/IP, LoRa, SPI, I2C, UART |
 | **Hardware & Simulation** | KiCad, EasyEDA, LTspice, Gazebo, SolidWorks, Onshape |
-| **Industrial Power** | 22kV/6.6kV Switchgears (VCB/GIS), Protection Relays (Schneider, ABB, Siemens) |
+| **Industrial Power** | HV/LV Switchgears, Protection Relays (Schneider, ABB, Siemens) |
 
 ---
 
