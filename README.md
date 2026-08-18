@@ -1,78 +1,63 @@
-# 👋 Hi, I’m Chirag Kotian  
-  
+# Hi there, I'm Chirag Kotian 👋
 
-<a href="https://github.com/ChiragKotian" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ChiragKotian03" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/chirag-kotian-b667521b7/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/chiraghkotian" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/chiraghkotian" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@clschiraglovesscience2867" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chirag%20Kotian-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/chirag-kotian-b667521b7/)
+[![Portfolio](https://img.shields.io/badge/Website-chiragkotian.github.io-blue?style=flat&logo=google-chrome)](https://chiragkotian.github.io/)
+[![Email](https://img.shields.io/badge/Email-chirag.kotian2007%40gmail.com-D14836?style=flat&logo=gmail)](mailto:chirag.kotian2007@gmail.com)
 
+**Electrical & Systems Engineer** with a B.Tech from **IIT Tirupati** and hands-on industrial systems experience at **HPCL Mumbai Refinery**. I operate at the intersection of **heavy electrical infrastructure**, **embedded firmware**, and **distributed IIoT/robotics**.
 
-### Glad to see you here!!!
+---
 
-## About me:
-Electrical Engineering graduate from IIT Tirupati with a minor in Management, combining deep technical expertise in robotics, embedded systems, and drone technologies with strong leadership and project execution capabilities. Proficient in developing real-time control systems and modular robotic platforms, with hands-on experience in PX4 autopilot, ROS/ROS2 frameworks, and embedded hardware platforms like Raspberry Pi, STM32, ESP32 and Arduino, both as standalone systems and in fully integrated architectures. Completed research internships through the prestigious MITACS program (Canada) and at IIT Gandhinagar, while leading award-winning interdisciplinary teams at Inter-IIT Tech Meets. Skilled in C++, Python, PCB design, and communication interfaces including I2C, SPI, and CAN. 
-  
+### 🚀 What I'm Working On
 
-<br/>  
+- 🏭 **Industrial IoT / Telemetry:** Architecting **AgnostiLink**, an edge-computing retrofit platform engineered for high-EMI industrial substations. 
+  - *Status:* **Achieved MVP Status (Prototype 1)** running 2 distinct group Local Monitoring Panels (LMPs) communicating via a deterministic C-based field protocol.
+- ⚡ **Embedded Systems & Control:** Designing low-latency firmware, multi-protocol communication bridges (CAN, Modbus, SPI, I2C), and state-machine-driven telemetry.
+- 🤖 **Robotics & Autonomous Systems:** PX4 autopilot customization, ROS2-compatible actuators, and fault-tolerant flight systems.
 
+---
 
-## Rapidfire  
+### 🛠️ Tech Stack & Tooling
 
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | C, C++, Python, Ladder Logic, MATLAB / Simulink |
+| **Embedded & RTOS** | FreeRTOS, STM32, ESP32-S3, Arduino, PX4 Autopilot, ROS / ROS2 |
+| **Fieldbuses & Protocols** | CAN bus (Custom Frame/Hex), Modbus TCP/IP, LoRaWAN, SPI, I2C, UART |
+| **Hardware & Simulation** | KiCad, EasyEDA, LTspice, Gazebo, SolidWorks, Onshape |
+| **Industrial Power** | 22kV/6.6kV Switchgears (VCB/GIS), Protection Relays (Schneider, ABB, Siemens) |
 
-- 🌱 I’m currently working at HPCL Mumbai Refinery
-  
+---
 
-- 👀 I’m interested in electronics, IOT, designing circuits, drones, robotics, etc.  
-  
+### 📌 Featured Projects & Research
 
-- 💞 I’m looking to collaborate on any project related to electronics, drones or robotics  
-  
+#### 📡 [AgnostiLink — Industrial Substation IIoT Architecture](https://github.com/ChiragKotian)
+- Distributed 3-tier IIoT network built to monitor thermal and environmental parameters of high-voltage assets in severe EMI environments.
+- Features dynamic node registry, hardware-resilient recovery routines, and deterministic firmware written in C.
 
-- 🔭 My personal [website](https://chiragkotian.github.io).  
-  
+#### 🦾 [Modular DC Servomotor Controller (MITACS Globalink — Toronto, Canada)](https://github.com/ChiragKotian/Motor-Controller-for-cobots)
+- Designed a multi-protocol hardware and firmware stack utilizing C++ and Python for precision torque and position control of 6 simultaneous DC motors (10A each).
+- Integrated 14-bit analog feedback loops with ROS2-compatible serial interfaces.
 
-- 📫 How to reach me: contact me by shooting me an email (Youtube channel email-id) at cls010522@gmail.com  
+#### 🚁 [Fault-Tolerant Quadrotor Control (Inter-IIT Tech Meet 13.0 — Bronze Medal)](https://github.com/ChiragKotian)
+- Developed custom PID control reallocation algorithms and digital signal filters in **PX4 / Gazebo** to achieve stable descent during catastrophic single-motor failure (97.5% detection accuracy).
 
-<br/>  
+#### 🔄 [ModuShift — Modular Field-Deployable Robotics Platform](https://github.com/ChiragKotian)
+- Modular system capable of dynamic auto-reconfiguration using Raspberry Pi 5, PX4, ROS2, and CAN bus inter-module routing *(Patent Pending)*.
 
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-</div>  
+### 📊 GitHub Activity & Stats
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiragKotian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chirag's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKotian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+</div>
 
- 
- ### 🙏 Thanks for visiting!😁
-  
+---
 
-<br/> 
+### 📬 Connect With Me
 
-<br/> 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=ChiragKotian&&style=flat-square" align="center" />
-</div>  
-  
- 
-
+- 💼 **LinkedIn:** [linkedin.com/in/chirag-kotian-b667521b7](https://www.linkedin.com/in/chirag-kotian-b667521b7/)
+- 🌐 **Personal Portfolio:** [chiragkotian.github.io](https://chiragkotian.github.io/)
+- ✉️ **Direct Email:** [chirag.kotian2007@gmail.com](mailto:chirag.kotian2007@gmail.com)
