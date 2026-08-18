@@ -12,8 +12,6 @@
 
 - 🏭 **Industrial IoT / Telemetry:** Architecting **AgnostiLink**, an edge-computing retrofit platform engineered for high-EMI industrial substations. 
   - *Status:* **Achieved MVP Status (Prototype 1)** running 2 distinct group Local Monitoring Panels (LMPs) communicating via a deterministic C-based field protocol.
-- ⚡ **Embedded Systems & Control:** Designing low-latency firmware, multi-protocol communication bridges (CAN, Modbus, SPI, I2C), and state-machine-driven telemetry.
-- 🤖 **Robotics & Autonomous Systems:** PX4 autopilot customization, ROS2-compatible actuators, and fault-tolerant flight systems.
 
 ---
 
