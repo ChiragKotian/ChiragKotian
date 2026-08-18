@@ -48,14 +48,7 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiragKotian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Chirag's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKotian&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://metrics.lecoq.io/ChiragKotian" alt="Chirag's GitHub Metrics" width="80%" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=ChiragKotian&theme=tokyonight&hide_border=true" alt="Chirag's Streak" />
 </div>
-
----
-
-### 📬 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/chirag-kotian-b667521b7](https://www.linkedin.com/in/chirag-kotian-b667521b7/)
-- 🌐 **Personal Portfolio:** [chiragkotian.github.io](https://chiragkotian.github.io/)
-- ✉️ **Direct Email:** [chirag.kotian2007@gmail.com](mailto:chirag.kotian2007@gmail.com)
